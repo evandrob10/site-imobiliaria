@@ -1,0 +1,113 @@
+body{
+    margin: 0;
+    font-family: Tahoma, sans-serif;
+}
+div{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+p{
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size:18px;
+    line-height: 28px;
+}
+#menu{
+    background-color: #afddfb;
+}
+#menu img{
+    width: 150px;
+}
+#menu p{
+    margin-top: 15px;
+    margin-bottom:25px;
+    text-align: center;
+}
+#menu p a{
+    font-size: 18px;
+    color:#1d1d1d;
+    text-decoration: none;
+    margin:0 10px;
+}
+#menu p a:hover{
+    border-bottom: 2px solid #1d1d1d;
+}
+#banner{
+    margin-top:50px;
+    padding-top:0;
+}
+span{
+    font-weight: bold;
+}
+#sobre h1{
+    color:#1d1d1d;
+    margin-bottom:5px;
+}
+#sobre h2{
+    color:#1c81c0;
+    margin-top:0;
+    font-weight: normal;
+}
+.imagem-formatada{
+    width: 450px;
+}
+.texto-azul{
+    color:#1d80c1;
+}
+#servicos{
+    background-color: #1d80c1;
+}
+#servicos h3,#contato h3{
+    color:#ffffff;
+}
+.subtitulo-formatado{
+    font-size: 28px;
+    line-height: 42px;
+}
+#servicos p{
+    color:#ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+.texto-amarelo{
+    font-weight: bold;
+    color:#fff81b;
+}
+#servicos ul{
+    margin:40px auto;
+    width: 135px;
+}
+#servicos ul li{
+    color:#ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size:22px;
+}
+#contato{
+    background-color: #1d80c1;
+}
+#contato p{
+    color:#ffffff;
+    background-color: #1d1d1d;
+    padding:15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#contato ul{
+    width: 220px;
+    margin:40px auto;
+}
+#contato ul li{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+#contato ul li a{
+    background-color: #ffffff;
+    color:#1d80c1;
+    padding:2px 5px;
+}
